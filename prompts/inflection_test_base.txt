@@ -1,0 +1,2 @@
+Q: Inflect the {language} word '{inp}' with the morphological tags of {tags}
+A:
