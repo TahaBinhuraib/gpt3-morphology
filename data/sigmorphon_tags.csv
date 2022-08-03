@@ -1,0 +1,247 @@
+Tag,Label
+Accomplishment,accmp
+Achievement,ach
+Activity,acty
+Atelic,atel
+Durative,dur
+Dynamic,dyn
+Punctual,pct
+Semelfactive,semel
+Stative,stat
+Telic,tel
+Animate,anim
+Human,hum
+Inanimate,inan
+Non-human,nhum
+Habitual,hab
+Imperfective,ipfv
+Iterative,iter
+Perfective,pfv
+Perfect,prf
+Progressive,prog
+Prospective,prosp
+Ablative,abl
+Absolutive,abs
+Accusative,acc
+Allative,all
+"Near, in front of",ante
+Approximative,apprx
+Next to,apud
+At,at
+Aversive,avr
+Benefactive,ben
+Essive-modal,byway
+Near,circ
+Comitative,com
+Comparative,compv
+Dative,dat
+Equative,eqtv
+Ergative,erg
+Essive,ess
+Formal,frml
+Genitive,gen
+In,in
+Instrumental,ins
+Among,inter
+Nominative,nom
+"Nominative, S-only",noms
+On,on
+On (horizontal),onhr
+On (vertical),onvr
+Behind,post
+Privative,priv
+Prolative/translative,prol
+Proprietive,propr
+Proximate,prox
+Purposive,prp
+Partitive,prt
+Relative,rel
+Distal,rem
+Under,sub
+Terminative,term
+Translative,trans
+Versative,vers
+Vocative,voc
+Absolute,ab
+Comparative,cmpr
+Equative,eqt
+Relative,rl
+Superlative,sprl
+Definite,def
+Indefinite,indf
+Non-Specific,nspec
+Specific,spec
+Above,abv
+Below,bel
+Even,even
+Medial,med
+"No Reference Point, Distal",noref
+Invisible,nvis
+"Phoric, situated in discourse",phor
+Proximate,prox
+First Person Reference Point,ref1
+Second Person Reference Point,ref2
+Remote,remt
+Visible,vis
+Assumed,assum
+Auditory,aud
+Direct,drct
+Firsthand,fh
+Hearsay,hrsy
+Inferred,infer
+Non-firsthand,nfh
+Non-visual sensory,nvsen
+Quotative,quot
+Reported,rprt
+Sensory,sen
+Finite,fin
+Nonfinite,nfin
+Bantu Noun Classes,bantu1-23
+Feminine,fem
+Masculine,masc
+Nakh-Daghestanian Noun Classes,nakh1-8
+Neuter,neut
+Focus,foc
+Topic,top
+Declarative,decl
+Interrogative,int
+varies by language,lgspec1
+varies by language,lgspec2
+Admirative,adm
+Australian Non-Purposive,aunprp
+Australian Purposive,auprp
+Conditional,cond
+Debitive,deb
+Deductive,ded
+Imperative-Jussive,imp
+Indicative,ind
+Intentive,inten
+Irrealis,irr
+Likely,lkly
+Obligative,oblig
+Optative-Desiderative,opt
+Permissive,perm
+Potential,pot
+General Purposive,purp
+Realis,real
+Subjunctive,sbjv
+Simulative,sim
+Dual,du
+Greater paucal,gpauc
+Greater plural,grpl
+Inverse,invn
+Paucal,pauc
+Plural,pl
+Singular,sg
+Trial,tri
+Adjective,adj
+Adposition,adp
+Adverb,adv
+Article,art
+Auxiliary,aux
+Classifier,clf
+Complementizer,comp
+Conjunction,conj
+Determiner,det
+Interjection,intj
+Noun,n
+Numeral,num
+Particle,part
+Pronoun,pro
+Proper Name,propn
+Verb,v
+Converb,v.cvb
+Masdar,v.msdr
+Participle,v.ptcp
+Zero person,0
+First person,1
+Second person,2
+Third person,3
+Fourth person,4
+Exclusive,excl
+Inclusive,incl
+Obviative,obv
+Proximate,prx
+Positive,pos
+Negative,neg
+Avoidance style,avoid
+Colloquial,col
+"Formal, Referent Elevating",elev
+Formal register,foreg
+Formal,form
+High status,high
+"Formal, Speaker Humbling",humb
+Informal,infm
+Literary,lit
+Low status,low
+Polite,pol
+"High status, elevated",stelev
+"High status, supreme",stsupr
+Alienable possession,aln
+Inalienable possession,naln
+Possession by 1.du,pss1d
+Possession by 1.du.excl,pss1de
+Possession by 1.du.incl,pss1di
+Possession by 1.pl,pss1p
+Possession by 1.pl.excl,pss1pe
+Possession by 1.pl.incl,pss1pi
+Possession by 1.sg,pss1s
+Possession by 2.du,pss2d
+Possession by 2.du.fem,pss2df
+Possession by 2.du.masc,pss2dm
+Possession by 2.pl,pss2p
+Possession by 2.pl.fem,pss2pf
+Possession by 2.pl.masc,pss2pm
+Possession by 2.sg,pss2s
+Possession by 2.sg.fem,pss2sf
+Possession by 2.sg.form,pss2sform
+Possession by 2.sg.infm,pss2sinfm
+Possession by 2.sg.masc,pss2sm
+Possession by 3.du,pss3d
+Possession by 3.du.fem,pss3df
+Possession by 3.du.masc,pss3dm
+Possession by 3.pl,pss3p
+Possession by 3.pl.fem,pss3pf
+Possession by 3.pl.masc,pss3pm
+Possession by 3.sg,pss3s
+Possession by 3.sg.fem,pss3sf
+Possession by 3.sg.masc,pss3sm
+Possessed,pssd
+SR among NPs in any argument position,cn r mn
+DS,ds
+DS Adverbial,dsadv
+Logophoric,log
+Impersonal,imprs
+Intransitive,intr
+Reciprocal,recp
+Reflexive,refl
+Transitive,tr
+Accompanier Focus,acfoc
+Active,act
+Agent Focus,agfoc
+Antipassive,antip
+Beneficiary Focus,bfoc
+Conveyed Focus,cfoc
+Direct,dir
+Instrument Focus,ifoc
+Inverse,inv
+Location Focus,lfoc
+Middle,mid
+Passive,pass
+Patient Focus,pfoc
+Open Reference,or
+Sequential Multiclausal Aspect,seqma
+Simultaneous Multiclausal Aspect,simma
+SS,ss
+SS Adverbial,ssadv
+Within 1 day,1day
+Future,fut
+Hodiernal,hod
+Immediate,immed
+Present,prs
+Past,pst
+Recent,rct
+Remote,rmt
+Applicative,appl
+Causative,caus
+Ditransitive,ditr
