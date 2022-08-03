@@ -1,0 +1,247 @@
+,Tag,Label
+0,Accomplishment,accmp
+1,Achievement,ach
+2,Activity,acty
+3,Atelic,atel
+4,Durative,dur
+5,Dynamic,dyn
+6,Punctual,pct
+7,Semelfactive,semel
+8,Stative,stat
+9,Telic,tel
+10,Animate,anim
+11,Human,hum
+12,Inanimate,inan
+13,Non-human,nhum
+14,Habitual,hab
+15,Imperfective,ipfv
+16,Iterative,iter
+17,Perfective,pfv
+18,Perfect,prf
+19,Progressive,prog
+20,Prospective,prosp
+21,Ablative,abl
+22,Absolutive,abs
+23,Accusative,acc
+24,Allative,all
+25,"Near, in front of",ante
+26,Approximative,apprx
+27,Next to,apud
+28,At,at
+29,Aversive,avr
+30,Benefactive,ben
+31,Essive-modal,byway
+32,Near,circ
+33,Comitative,com
+34,Comparative,compv
+35,Dative,dat
+36,Equative,eqtv
+37,Ergative,erg
+38,Essive,ess
+39,Formal,frml
+40,Genitive,gen
+41,In,in
+42,Instrumental,ins
+43,Among,inter
+44,Nominative,nom
+45,"Nominative, S-only",noms
+46,On,on
+47,On (horizontal),onhr
+48,On (vertical),onvr
+49,Behind,post
+50,Privative,priv
+51,Prolative/translative,prol
+52,Proprietive,propr
+53,Proximate,prox
+54,Purposive,prp
+55,Partitive,prt
+56,Relative,rel
+57,Distal,rem
+58,Under,sub
+59,Terminative,term
+60,Translative,trans
+61,Versative,vers
+62,Vocative,voc
+63,Absolute,ab
+64,Comparative,cmpr
+65,Equative,eqt
+66,Relative,rl
+67,Superlative,sprl
+68,Definite,def
+69,Indefinite,indf
+70,Non-Specific,nspec
+71,Specific,spec
+72,Above,abv
+73,Below,bel
+74,Even,even
+75,Medial,med
+76,"No Reference Point, Distal",noref
+77,Invisible,nvis
+78,"Phoric, situated in discourse",phor
+79,Proximate,prox
+80,First Person Reference Point,ref1
+81,Second Person Reference Point,ref2
+82,Remote,remt
+83,Visible,vis
+84,Assumed,assum
+85,Auditory,aud
+86,Direct,drct
+87,Firsthand,fh
+88,Hearsay,hrsy
+89,Inferred,infer
+90,Non-firsthand,nfh
+91,Non-visual sensory,nvsen
+92,Quotative,quot
+93,Reported,rprt
+94,Sensory,sen
+95,Finite,fin
+96,Nonfinite,nfin
+97,Bantu Noun Classes,bantu1-23
+98,Feminine,fem
+99,Masculine,masc
+100,Nakh-Daghestanian Noun Classes,nakh1-8
+101,Neuter,neut
+102,Focus,foc
+103,Topic,top
+104,Declarative,decl
+105,Interrogative,int
+106,varies by language,lgspec1
+107,varies by language,lgspec2
+108,Admirative,adm
+109,Australian Non-Purposive,aunprp
+110,Australian Purposive,auprp
+111,Conditional,cond
+112,Debitive,deb
+113,Deductive,ded
+114,Imperative-Jussive,imp
+115,Indicative,ind
+116,Intentive,inten
+117,Irrealis,irr
+118,Likely,lkly
+119,Obligative,oblig
+120,Optative-Desiderative,opt
+121,Permissive,perm
+122,Potential,pot
+123,General Purposive,purp
+124,Realis,real
+125,Subjunctive,sbjv
+126,Simulative,sim
+127,Dual,du
+128,Greater paucal,gpauc
+129,Greater plural,grpl
+130,Inverse,invn
+131,Paucal,pauc
+132,Plural,pl
+133,Singular,sg
+134,Trial,tri
+135,Adjective,adj
+136,Adposition,adp
+137,Adverb,adv
+138,Article,art
+139,Auxiliary,aux
+140,Classifier,clf
+141,Complementizer,comp
+142,Conjunction,conj
+143,Determiner,det
+144,Interjection,intj
+145,Noun,n
+146,Numeral,num
+147,Particle,part
+148,Pronoun,pro
+149,Proper Name,propn
+150,Verb,v
+151,Converb,v.cvb
+152,Masdar,v.msdr
+153,Participle,v.ptcp
+154,Zero person,0
+155,First person,1
+156,Second person,2
+157,Third person,3
+158,Fourth person,4
+159,Exclusive,excl
+160,Inclusive,incl
+161,Obviative,obv
+162,Proximate,prx
+163,Positive,pos
+164,Negative,neg
+165,Avoidance style,avoid
+166,Colloquial,col
+167,"Formal, Referent Elevating",elev
+168,Formal register,foreg
+169,Formal,form
+170,High status,high
+171,"Formal, Speaker Humbling",humb
+172,Informal,infm
+173,Literary,lit
+174,Low status,low
+175,Polite,pol
+176,"High status, elevated",stelev
+177,"High status, supreme",stsupr
+178,Alienable possession,aln
+179,Inalienable possession,naln
+180,Possession by 1.du,pss1d
+181,Possession by 1.du.excl,pss1de
+182,Possession by 1.du.incl,pss1di
+183,Possession by 1.pl,pss1p
+184,Possession by 1.pl.excl,pss1pe
+185,Possession by 1.pl.incl,pss1pi
+186,Possession by 1.sg,pss1s
+187,Possession by 2.du,pss2d
+188,Possession by 2.du.fem,pss2df
+189,Possession by 2.du.masc,pss2dm
+190,Possession by 2.pl,pss2p
+191,Possession by 2.pl.fem,pss2pf
+192,Possession by 2.pl.masc,pss2pm
+193,Possession by 2.sg,pss2s
+194,Possession by 2.sg.fem,pss2sf
+195,Possession by 2.sg.form,pss2sform
+196,Possession by 2.sg.infm,pss2sinfm
+197,Possession by 2.sg.masc,pss2sm
+198,Possession by 3.du,pss3d
+199,Possession by 3.du.fem,pss3df
+200,Possession by 3.du.masc,pss3dm
+201,Possession by 3.pl,pss3p
+202,Possession by 3.pl.fem,pss3pf
+203,Possession by 3.pl.masc,pss3pm
+204,Possession by 3.sg,pss3s
+205,Possession by 3.sg.fem,pss3sf
+206,Possession by 3.sg.masc,pss3sm
+207,Possessed,pssd
+208,SR among NPs in any argument position,cn r mn
+209,DS,ds
+210,DS Adverbial,dsadv
+211,Logophoric,log
+212,Impersonal,imprs
+213,Intransitive,intr
+214,Reciprocal,recp
+215,Reflexive,refl
+216,Transitive,tr
+217,Accompanier Focus,acfoc
+218,Active,act
+219,Agent Focus,agfoc
+220,Antipassive,antip
+221,Beneficiary Focus,bfoc
+222,Conveyed Focus,cfoc
+223,Direct,dir
+224,Instrument Focus,ifoc
+225,Inverse,inv
+226,Location Focus,lfoc
+227,Middle,mid
+228,Passive,pass
+229,Patient Focus,pfoc
+230,Open Reference,or
+231,Sequential Multiclausal Aspect,seqma
+232,Simultaneous Multiclausal Aspect,simma
+233,SS,ss
+234,SS Adverbial,ssadv
+235,Within 1 day,1day
+236,Future,fut
+237,Hodiernal,hod
+238,Immediate,immed
+239,Present,prs
+240,Past,pst
+241,Recent,rct
+242,Remote,rmt
+243,Applicative,appl
+244,Causative,caus
+245,Ditransitive,ditr
